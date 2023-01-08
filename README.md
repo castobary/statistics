@@ -35,9 +35,15 @@ Stats from all games of season 2016-2017
 
 The folder has the following modules
 
-1. Module 01 : Basics
+1.Module 01 : Sampling
 
 Module Subtopics
 
 + Sampling Error
 + Simple Random sampling
++ Statified Sampling
++ Cluster Sampling
+
+2.Module 02 : Variables in Statistics
+
+Module Subtopics
